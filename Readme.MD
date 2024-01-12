@@ -1,4 +1,8 @@
 # Project UAS - Aplikasi Manajemen Penjualan
+## Informasi Pembuat
+- Nama : Muhammad Rifai Aditiya
+- Nim : 312010065
+- Kelas : TI.20.A1
 
 ## Deskripsi Proyek
 
@@ -34,7 +38,3 @@ Proyek ini bertujuan untuk mengembangkan sebuah aplikasi manajemen penjualan yan
 4. **Laporan:**
    - Hasilkan laporan transaksi berdasarkan bulan atau tahun tertentu.
 
-## Informasi Pembuat
-- Nama : Muhammad Rifai Aditiya
-- Nim : 312010065
-- Kelas : TI.20.A1
