@@ -28,13 +28,14 @@ Proyek ini bertujuan untuk mengembangkan sebuah aplikasi manajemen penjualan yan
 
 1. **Login:**
    - Buka aplikasi dan masuk menggunakan akun yang valid.
-
+![img](img/Menu%20Login.jpg)
 2. **Data Master:**
    - Kelola data barang, kategori barang, dan informasi pelanggan.
-
+![img](img/menu%20%20data%20barang.jpg)
 3. **Transaksi:**
    - Catat penjualan barang dan cetak faktur atau nota transaksi.
-
+![img](img/Menu%20Penjualan.jpg)
 4. **Laporan:**
    - Hasilkan laporan transaksi berdasarkan bulan atau tahun tertentu.
+![img](img/Menu%20Total.jpg)
 
